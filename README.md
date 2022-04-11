@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawkiIIalasy&label=Profile%20views&color=0e75b6&style=flat" alt="moathosa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawkiIIalasy&label=Profile%20views&color=0e75b6&style=flat" alt="shawkiIIalasy" /> </p>
 
 Hi, I'm Shawki Alasy, a Full Stack Software Engineer 🚀 from Jordan, I'm a Software engineer with high determination and passion for inventions and my career objectives is to establish myself in a ﬁeld where I can perform to the fullest of my abilities and eﬀectively demonstrate my initiative, problem solving and creativeness. I believe my skills include a calm disposition and excellent communication, which will enable me to be successful. And I feel so great with my solid understanding to use object oriented programming technique and design pattern in my programming life.
 
